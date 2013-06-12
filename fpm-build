@@ -1,4 +1,0 @@
-version=1.0.0
-name=fpm-test-script
-depends=perl
-#arch=i386
